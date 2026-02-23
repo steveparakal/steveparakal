@@ -35,7 +35,9 @@ Pandas
 NumPy  
 Scikit-learn  
 Matplotlib  
-NetworkX  
+Tensorflow
+Keras
+Networkx
 
 Tools:
 Jupyter Notebook  
