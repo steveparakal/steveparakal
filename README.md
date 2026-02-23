@@ -1,16 +1,92 @@
-## Hi there 👋
+# Steve George Parakal
 
-<!--
-**steveparakal/steveparakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Machine Learning | AI | Analytics
 
-Here are some ideas to get you started:
+I am a Data Science graduate with a strong academic foundation in machine learning, statistical modeling, and data analysis. I studied in the Higher School of Economics and the London School of Economics dual degree program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to apply data science and machine learning techniques to solve real-world problems and build impactful analytical solutions.
+
+---
+
+## About Me
+
+- Data Science and Machine Learning graduate
+- Strong background in statistics and analytics
+- Experienced in Python for data science
+- Interested in AI, ML, and advanced analytics
+- Building real-world data science projects
+
+---
+
+## Technical Skills
+
+Machine Learning  
+Data Analysis  
+Predictive Modeling  
+Statistical Analysis  
+Network Analysis  
+Data Visualization  
+
+Programming:
+Python, SQL
+
+Libraries:
+Pandas  
+NumPy  
+Scikit-learn  
+Matplotlib  
+NetworkX  
+
+Tools:
+Jupyter Notebook  
+GitHub  
+
+---
+
+## Featured Projects
+
+Structural Break Detection in Time Series  
+Ego Network Analysis  
+Machine Learning Model Comparison  
+Statistical Data Analysis Projects  
+
+More projects are continuously being improved and added.
+
+---
+
+## What This GitHub Shows
+
+This GitHub includes my work in:
+
+Machine Learning Projects  
+Data Science Research  
+Statistical Modeling  
+Algorithm Development  
+Data Analysis  
+
+Each project demonstrates practical implementation of data science methods.
+
+---
+
+## Current Focus
+
+Currently working on:
+
+Improving machine learning portfolio projects  
+Building real-world data science applications  
+Freelancing in data science and analytics  
+Expanding AI and ML expertise  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=steveparakal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steveparakal&layout=compact)
+
+---
+
+## Contact
+
+Open to collaboration, research opportunities, and data science projects.
