@@ -92,3 +92,4 @@ Expanding AI and ML expertise
 ## Contact
 
 Open to collaboration, research opportunities, and data science projects.
+LinkedIn: https://www.linkedin.com/in/steve-george-parakal-97916a362/
